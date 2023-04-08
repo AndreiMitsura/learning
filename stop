@@ -1,0 +1,61 @@
+[33mcommit 8e1bc21bb480b5ebc4814857758a057d9c8d263b[m[33m ([m[1;36mHEAD -> [m[1;32mjunior[m[33m)[m
+Author: mitsuraTouge <mitsura97@gmail.com>
+Date:   Sat Apr 8 22:49:26 2023 +0200
+
+    Adding new line cherry-pick method
+
+[33mcommit ebbee21ba4cd84aa6aec8ec7b27db5d9551723b5[m
+Merge: 9d55c77 b0a6e88
+Author: mitsuraTouge <mitsura97@gmail.com>
+Date:   Sat Apr 8 22:17:10 2023 +0200
+
+    Merge branch 'main' into junior
+
+[33mcommit b0a6e88893e9797d12e73ceb753f0034dd31e89a[m[33m ([m[1;32mmain[m[33m)[m
+Author: mitsuraTouge <mitsura97@gmail.com>
+Date:   Sat Apr 8 22:16:27 2023 +0200
+
+    ADding new line for main branch
+
+[33mcommit 9d55c771f9d796d26eedff1cb78c79bb1415c02b[m
+Author: mitsuraTouge <mitsura97@gmail.com>
+Date:   Sat Apr 8 22:14:19 2023 +0200
+
+    ADding new line for junior branch
+
+[33mcommit 0effc8952414ef8cae1068dc46cf9e84e1035a02[m[33m ([m[1;33mtag: v1.4.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31mgithub/main[m[33m, [m[1;31mgithub/junior[m[33m)[m
+Author: mitsuraTouge <mitsura97@gmail.com>
+Date:   Fri Apr 7 23:04:38 2023 +0200
+
+    New file hello php
+
+[33mcommit ffa60a9b3053a99a8cdf2ba99204503dd1887c50[m
+Merge: cc02ff2 1d93565
+Author: mitsuraTouge <mitsura97@gmail.com>
+Date:   Fri Apr 7 22:58:30 2023 +0200
+
+    Merge branch 'developer'
+
+[33mcommit cc02ff2c58c78b252fa72fe113481e8fb67d227a[m
+Author: mitsuraTouge <mitsura97@gmail.com>
+Date:   Fri Apr 7 22:57:38 2023 +0200
+
+    New file Master
+
+[33mcommit 1d935650ae92f7812fe1a8e53c28bafbd5056983[m
+Author: mitsuraTouge <mitsura97@gmail.com>
+Date:   Fri Apr 7 22:53:55 2023 +0200
+
+    New file branch
+
+[33mcommit 9c8b9b4f81a78b8693c4a09ff974b435d347e1f0[m
+Author: mitsuraTouge <mitsura97@gmail.com>
+Date:   Fri Apr 7 14:35:09 2023 +0200
+
+    Hiesenberg
+
+[33mcommit e209f39af8b8e88e9271547a63fa22270b3a54c2[m
+Author: mitsuraTouge <mitsura97@gmail.com>
+Date:   Fri Apr 7 14:26:39 2023 +0200
+
+    addin phrase from Breaking Bad
